@@ -10,7 +10,7 @@ To execute Windows basic commands and batch scripting
 
 Navigate to any Windows environment installed on the system or installed inside a virtual environment like virtual box/vmware 
 
-### Step 2:
+### Step 2:'NN
 
 Write the Windows commands / batch file . Save each script in a file with a .bat extension. Ensure you have the necessary permissions to perform the operations. Adapt paths as needed based on your system configuration.
 ### Step 3:
